@@ -1,2 +1,2 @@
 # ComputerClubLiveDemo
-We are gonna skate to one song, and one song only
+If you aren't first, you're last
