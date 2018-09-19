@@ -1,2 +1,2 @@
 # ComputerClubLiveDemo
-We the best music DJ Khaled
+If you aren't first, you're last
