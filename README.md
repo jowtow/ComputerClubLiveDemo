@@ -1,2 +1,2 @@
 # ComputerClubLiveDemo
-We the best music DJ Khaled
+We are gonna skate to one song, and one song only
